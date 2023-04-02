@@ -5,4 +5,4 @@ choices of C/C++. It's important to keep an eye on the future as technology evol
 than our ability of catching up.
 
 ## Update (04/02/2023)
-Screw Rust, all hail the almighty C.
+Screw Rust, all hail the almighty C. # and it feels great !
