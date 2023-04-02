@@ -10,5 +10,7 @@ func main() {
 	fruits[2] = "Oranges"
 	fruits[3] = "Peaches"
 	fruits[4] = "Berries"
-	fmt.Println(fruits[2])
+	fmt.Println("Before: " + fruits[0])
+	fruits[0] = "Pineapples"
+	fmt.Println("After: " + fruits[0])
 }
